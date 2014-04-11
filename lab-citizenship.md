@@ -16,7 +16,7 @@ tags: [Jekyll, theme, responsive]
 </div>
 </section><!-- /#table-of-contents -->
 
-
+Note: Emails are intentionally not included here, as this page is publicly viewable.  You should be able to find all of them by asking around or looking in the [Penn directory](http://www.upenn.edu/directories/).
 
 ## Check-In and Check-Out
 When you arrive at the lab, you need to talk to Michelle.  There are several things you need to take care of: 
@@ -31,7 +31,7 @@ In addition, talk to Michael Stauffer to get cluster access and login id.
 When you check out, talk to Michelle again to provide future contact information and return your keys and ID card.  
 
 ## Reimbursement 
-Penn now processes reimbursements through the [Concur system](https://medley.isc-seo.upenn.edu/authentication/profile/concur?app=concurprod).  Mike McCandless is the lab business administrator, and he can help you with filling out the grant forms.
+Penn now processes reimbursements through the [Concur system](https://mgmt.wharton.upenn.edu/department-information/concur-travel-and-expense-management-tem/).  Mike McCandless is the lab business administrator, and he can help you with filling out the grant forms.
 
 ## Poster Printing
 We can print posters through [Biomedical Art and Design](http://www.med.upenn.edu/art/).  Mary Leonard will help you with the process. 
