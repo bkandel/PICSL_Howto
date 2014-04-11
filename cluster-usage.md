@@ -51,7 +51,9 @@ For example, if you wanted to run a script called `myscript.sh` with `bash`, ass
 qsub -S /bin/bash -pe serial 3 -wd /home/myname/data/somedir -hold_jid firstjob myscript.sh
 {% endhighlight %}
 
-To see what jobs you have submitted, use `qstat`. `qstat -u "*"` shows everyone's jobs, which can be useful for looking at cluster load.  To delete a job, use `qdel JOBID`, or `qdel -u userid` to delete all jobs for a user (you are only allowed to delete your own jobs).  
+To see what jobs you have submitted, use `qstat`. `qstat -u "*"` shows everyone's jobs, which can be useful for looking at cluster load.  To delete a job, use `qdel JOBID`, or `qdel -u userid` to delete all jobs for a user (you are only allowed to delete your own jobs). 
+
+If you're submitting a lot of jobs, you should put a small random delay after each job so that the cluster doesn't get hammered with too many requests at once. Add a line like `sleep $((RANDOM%3))` after your `qsub` command. 
 
 ## Cluster etiquette
 
