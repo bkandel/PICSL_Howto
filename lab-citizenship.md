@@ -41,7 +41,7 @@ PICSL lab members are encouraged to keep an up-to-date webpage on the [PICSL web
 
 You log in to the website by clicking on the 'Site Admin' link under 'Meta', on the left hand side of the page.  Add a new page for yourself under the appropriate category. A keynote  
 
-A lab bibliography in Bibtex is maintained [here](https://github.com/cookpa/picslbib). Instructions for adding references and citing them on the website are included. Email Phil Cook your GitHub user ID to be given push access. 
+We maintain a [lab bibliography in Bibtex format](https://github.com/cookpa/picslbib), which auto generates a list of lab publications and lets you cite papers in your pages and posts. Instructions for adding references and citing them on the website are included. Email Phil Cook your GitHub user ID to be given push access. 
 
 Publish posts with highlights of your work.  Try to tag them with pre-existing tags, so that the tags don't multiply out of control.  Same goes for categories. 
 
