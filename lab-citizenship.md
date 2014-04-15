@@ -45,3 +45,7 @@ We maintain a [lab bibliography in Bibtex format](https://github.com/cookpa/pics
 
 Publish posts with highlights of your work.  Try to tag them with pre-existing tags, so that the tags don't multiply out of control.  Same goes for categories. 
 
+## Coffee Machine
+Coming soon!
+
+
