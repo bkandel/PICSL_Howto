@@ -113,14 +113,20 @@ applies.
 ### Multi-threaded code
 The compute nodes limit memory usage, but they can’t control CPU usage. If you run multi-thread
 code, you can occupy all the cores on the machine, slowing down other jobs.
-For ITK code, threads can be controlled with an environment variable. Put this in your .bashrc file
-in your home directory (note - not .bash profile as this doesn’t get called by non-login shells).
+
+For ITK code, threads can be controlled with an environment variable. Some ITK code is non-deterministic in a multi-threaded environment, due to precision errors. For example, the convergence of numerical optimization may differ slightly for subsequent calls to the same code. If complete reproducibility is important, always use one thread by sending the variable ITK_GLOBAL_DEFAULT_NUMBER_OF_THREADS=1 to your job.
+
+In general, you can use as many threads as you have slots, which will allow multi-threaded filters to run faster. Put this in your .bashrc file in your home directory (note - not .bash_profile as this doesn’t get called by non-login shells).
 
 {% highlight bash %}
-ITK_GLOBAL_DEFAULT_NUMBER_OF_THREADS=$NSLOTS
-if [ [ $ITK_GLOBAL_DEFAULT_NUMBER_OF_THREADS - lt 1 ]] 
-then
-  ITK_GLOBAL_DEFAULT_NUMBER_OF_THREADS=1
+if [[ $ITK_GLOBAL_DEFAULT_NUMBER_OF_THREADS -lt 1 ]]; then
+
+  if [[ $NSLOTS -gt 1 ]]; then
+    ITK_GLOBAL_DEFAULT_NUMBER_OF_THREADS=$NSLOTS
+  else
+    ITK_GLOBAL_DEFAULT_NUMBER_OF_THREADS=1
+  fi
+
 fi
 {% endhighlight %}
 
@@ -128,7 +134,6 @@ The `NSLOTS` variable is set automatically by qsub when you submit a job. Thus, 
 many threads as you have slots, ensuring that all cores on the node get used, but not overtaxed.
 In Matlab, there’s less scope to modify the number of threads in his way, so you should run with
 the `-singleCompThread` option to restrict the process to a single thread.
-
 
 
 ## Internet and VPN Access
