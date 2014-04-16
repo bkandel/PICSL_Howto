@@ -25,9 +25,16 @@ Coming soon!
 
 
 ## Conferences
-Coming soon!
+
+### [Medical Image Computing and Computer Assisted Intervention (MICCAI)](www.miccai.org)
+### [IEEE Conference on Computer Vision and Pattern Recognition (CVPR)](www.pamitc.org/cvpr14)
+
+Other conferences information will be coming soon!
+
 
 ## Resources
-Coming soon!
+1. [Lab Softwares](http://bkandel.github.io/PICSL_Howto//lab-software/)
+
+Other resources will be coming soon!
 
 
