@@ -165,12 +165,6 @@ Anti-virus software is available through the university [here](http://www.upenn.
 free to the general public.
 
 
-## Printers
-There are three network printers: geelab1 (suite 370), geelab2 (suite 320) and geelabc (suite 370).
-Print duplex on all of these to save paper, and print only what you need, especially in color. Contact
-Michael Stauffer for the IP addresses.
-
-
 ## Common problems
 
 ### DNS

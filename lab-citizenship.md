@@ -45,8 +45,14 @@ We maintain a [lab bibliography in Bibtex format](https://github.com/cookpa/pics
 
 Publish posts with highlights of your work.  Try to tag them with pre-existing tags, so that the tags don't multiply out of control.  Same goes for categories. 
 
+
+## Printers
+There are three network printers: geelab1 (suite 370), geelab2 (suite 320) and geelabc (suite 370). Print duplex on all of these to save paper, and print only what you need, especially in color. Contact Michael Stauffer for the IP addresses.
+
+
 ## Travel
 Coming soon!
+
 
 ## Coffee Machine
 Coming soon!
