@@ -26,10 +26,9 @@ Coming soon!
 
 ## Conferences
 
-### [Medical Image Computing and Computer Assisted Intervention (MICCAI)](www.miccai.org)
+1. [Medical Image Computing and Computer Assisted Intervention (MICCAI)](www.miccai.org)
 
-
-### [IEEE Conference on Computer Vision and Pattern Recognition (CVPR)](www.pamitc.org/cvpr14)
+2. [IEEE Conference on Computer Vision and Pattern Recognition (CVPR)](www.pamitc.org/cvpr14)
 
 
 Other conferences information will be coming soon!
