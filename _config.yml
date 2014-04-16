@@ -29,6 +29,8 @@ links:
     url: /lab-software/
   - title: Lab Citizenship
     url: /lab-citizenship/
+  - title: Development
+    url: /development/
   - title: PICSL Webpage
     url: http://www.picsl.upenn.edu
     external: true
