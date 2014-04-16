@@ -128,6 +128,9 @@ if [[ $ITK_GLOBAL_DEFAULT_NUMBER_OF_THREADS -lt 1 ]]; then
   fi
 
 fi
+
+export ITK_GLOBAL_DEFAULT_NUMBER_OF_THREADS
+
 {% endhighlight %}
 
 The `NSLOTS` variable is set automatically by qsub when you submit a job. Thus, you can use as
