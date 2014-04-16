@@ -37,7 +37,7 @@ Penn now processes reimbursements through the [Concur system](https://mgmt.whart
 We can print posters through [Biomedical Art and Design](http://www.med.upenn.edu/art/).  Mary Leonard will help you with the process. 
 
 ## Website 
-PICSL lab members are encouraged to keep an up-to-date webpage on the [PICSL webpage](www.picsl.upenn.edu).  Contact Phil Cook for a website id.  
+PICSL lab members are encouraged to keep an up-to-date webpage on the [PICSL webpage](http://www.picsl.upenn.edu).  Contact Phil Cook for a website id.  
 
 You log in to the website by clicking on the 'Site Admin' link under 'Meta', on the left hand side of the page.  Add a new page for yourself under the appropriate category. A keynote  
 
