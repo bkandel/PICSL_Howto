@@ -34,9 +34,19 @@ Coming soon!
 Other conferences information will be coming soon!
 
 
+## Reproducible Research
+
+
+#### Code Management
+
+
+#### Data Management
+
+
+#### Backups
+
+
 ## Resources
 1. [Lab Softwares](http://bkandel.github.io/PICSL_Howto//lab-software/)
 
-Other resources will be coming soon!
-
-
+Other resources (useful and interesting resources) will be coming soon!
