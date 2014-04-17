@@ -31,7 +31,7 @@ Coming soon!
 2. [IEEE Conference on Computer Vision and Pattern Recognition (CVPR)](http://www.pamitc.org/cvpr14)
 
 
-Other conferences information will be coming soon!
+Detailed conferences information will be coming soon!
 
 
 ## Reproducible Research
