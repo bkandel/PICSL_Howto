@@ -7,5 +7,5 @@ modified: 9-9-2013
 comments: false
 ---
 
-Internal lab documentation page for accessing and using PICSL computing resources.  Includes introduction to lab image processing tools, cluster usage and best practices, and who to contact for help. 
+Internal lab documentation page for accessing and using PICSL computing resources. Includes introduction to lab image processing tools, cluster usage and best practices, lab citizenship, future development resources and who to contact for help. 
 
