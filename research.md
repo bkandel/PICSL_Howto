@@ -37,7 +37,7 @@ Submissions to these conferences are in the form of a paper (roughly 1/2-2/3 the
 ## Reproducible Research
 
 ### Code Management
-Learn [Github](github.com).  It is your friend. 
+Learn [Github](www.github.com).  It is your friend. 
 
 
 ## Resources
