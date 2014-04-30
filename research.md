@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /development/
+permalink: /research/
 title: Development
 description: "Conducting and disseminating research."
 tags: [Jekyll, theme, responsive]
