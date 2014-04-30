@@ -29,7 +29,7 @@ Unlike most academic fields, computer science conferences are the primary source
 
 Submissions to these conferences are in the form of a paper (roughly 1/2-2/3 the length of a regular journal article).  Besides these conferences, some more scientifically oriented conferences include:
 
-4. [ISMRM](www.ismrm.org): Focused on MRI.  A huge conference, with a good representation of both clinicians and scientists.  Deadline is November, with conference mid-May.
+4. [ISMRM](http://www.ismrm.org): Focused on MRI.  A huge conference, with a good representation of both clinicians and scientists.  Deadline is November, with conference mid-May.
 5. [HBM](http://www.humanbrainmapping.org/):  Covers all aspects of neuroimaging.  Quite large.  Deadline is early January, with the conference over the summer. 
 
 
@@ -37,7 +37,7 @@ Submissions to these conferences are in the form of a paper (roughly 1/2-2/3 the
 ## Reproducible Research
 
 ### Code Management
-Learn [Github](www.github.com).  It is your friend. 
+Learn [Github](http://www.github.com).  It is your friend. 
 
 
 ## Resources
